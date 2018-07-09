@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         etGPA = findViewById(R.id.editTextGPA);
         rgGender = findViewById(R.id.RadioGroupGender);
     }
-
+     // hello
     @Override
     protected void onPause() {
         super.onPause();
